@@ -34,7 +34,8 @@ The final project of the course is also included in this repository. It involves
 
 ## Certificate
 Upon completion of the course, you will receive a certificate of completion from IBM.
-[Course Certificate](https://coursera.org/share/f0c8124625495a812465bc7393917815)
+
+[Course Certificate](https://coursera.org/share/3f8090ce3a8860cb43fc65e1bdcea990)
 
 ## Note
 Please note that the notebooks in this repository are for educational purposes only and should not be used for commercial purposes.
