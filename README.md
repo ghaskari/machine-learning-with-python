@@ -1,7 +1,41 @@
 # Machine Learning with Python
 
-This course will begin with a gentle introduction to Machine Learning and what it is, with topics like supervised vs unsupervised learning, linear & non-linear regression, simple regression and more.  
+This repository contains the notebooks and the final project of the IBM Machine Learning with Python Course. The purpose of this course is to introduce the fundamentals of machine learning and its applications using the Python programming language.
 
-You will then dive into classification techniques using different classification algorithms, namely K-Nearest Neighbors (KNN), decision trees, and Logistic Regression. You’ll also learn about the importance and different types of clustering such as k-means, hierarchical clustering, and DBSCAN. 
+The course covers the following topics:
 
-With all the many concepts you will learn, a big emphasis will be placed on hands-on learning. You will work with Python libraries like SciPy and scikit-learn and apply your knowledge through labs. In the final project you will demonstrate your skills by building, evaluating and comparing several Machine Learning models using different algorithms.
+- Introduction to Machine Learning
+- Regression
+- Classification
+- Clustering
+- Model Evaluation and Selection
+- Decision Trees
+- SVM (Support Vector Machines)
+- Naive Bayes
+- Unsupervised Learning
+All the notebooks are organized by week and contain detailed explanations, code examples and exercises that will help you understand the concepts presented during the course.
+
+## Prerequisites
+In order to use these notebooks, you should have the following software installed:
+
+- NumPy
+- Pandas
+- Matplotlib
+- Scikit-learn
+- Seaborn
+
+## Getting Started
+Clone the repository to your local machine.
+Install the required packages as mentioned above.
+Navigate to the directory where the repository was cloned and start Jupyter Notebook.
+Open the notebooks and follow the instructions provided.
+Final Project
+The final project of the course is also included in this repository. It involves building, evaluating and comparing several Machine Learning models using different algorithms. The aim of the project is to demonstrate your skills and knowledge acquired throughout the course.
+
+## Certificate
+Upon completion of the course, you will receive a certificate of completion from IBM.
+[Course Certificate](https://coursera.org/share/f0c8124625495a812465bc7393917815)
+
+## Note
+Please note that the notebooks in this repository are for educational purposes only and should not be used for commercial purposes.
+
